@@ -8,8 +8,14 @@
   font-family: "Montserrat", sans-serif;
 }
 
+
 body {
-  background: rgb(16, 89, 130);
+  background: linear-gradient(rgba(255,255,255,0.55), rgba(255,255,255,0.65)), url(background3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 60px;
+  padding-bottom: 35px;
   font-size: 14px;
   line-height: 22px;
   color: #555555;
